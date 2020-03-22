@@ -1,4 +1,4 @@
-Avanti's Bread		(Lynne)
+# Avanti's Bread		(Lynne)
 
 *	2 packages active Dry Yeast
 *	3 cups water
