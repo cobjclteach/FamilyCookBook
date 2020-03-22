@@ -1,5 +1,6 @@
 # Avanti's Bread		(Lynne)
 
+##Ingredients
 *	2 packages active Dry Yeast
 *	3 cups water
 *	3 tbsp vegetable oil
