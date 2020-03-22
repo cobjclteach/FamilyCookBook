@@ -1,6 +1,6 @@
 # Avanti's Bread		(Lynne)
 
-##Ingredients
+**Ingredients**
 *	2 packages active Dry Yeast
 *	3 cups water
 *	3 tbsp vegetable oil
@@ -9,7 +9,7 @@
 *	1 1/4 cup sugar
 *	10-11 cups flour
 
-##Directions
+**Directions**
 1. Dissolve the yeast in warm water; add remaining ingredients and knead for approximately 10 minutes, or until dough is smooth and elastic.
 1. Place dough in an oiled bowl, turning once to bring oiled side up.
 1. Cover with a cloth and let rise in a warm, humid place until the dough has doubled in bulk (about 1 1/2 to 2 hours)
