@@ -1,4 +1,4 @@
-##Southern Biscuits	(Matt)
+## Southern Biscuits	(Matt)
 
 **Ingredients**
 *	1 cup plus 2 tbsp flour
@@ -15,7 +15,7 @@
 1. Using a fork, chop in the Shortening until it is coarse and grainy
 1. Mix in the milk with the fork
 1. Spread flour on a board.
-1. Roll-out the dough to � an inch
+1. Roll-out the dough to 1/2 an inch
 1. Put the biscuits with a glass/cup
 1. Put the butter in a frying pan and place in the oven to melt the butter
 1. Remove pan from oven and ensure that the butter cover the entire pan
