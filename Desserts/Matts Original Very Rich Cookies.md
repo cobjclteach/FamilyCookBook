@@ -1,11 +1,12 @@
-# Matt’s Original Very Rich Cookies	(Matt - Created recipe while at Eagles)
+# Matt’s Original Very Rich Cookies
+### Matt - Created recipe while at Eagles
 
 **Ingredients**
 * 1 cup butter, softened
 *	1 cup shortening
 *	1½ cup sugar
 *	1 cup firmly packed brown sugar
-*	2 eggs 
+*	2 eggs
 *	3½ cups all-purpose flour
 *	2 teaspoon baking soda
 *	1 teaspoon salt

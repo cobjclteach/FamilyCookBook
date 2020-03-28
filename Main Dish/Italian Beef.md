@@ -1,4 +1,5 @@
-## Italian Beef	(Lynne Green)
+# Italian Beef
+### Lynne Green
 
 **Ingredients**
 * 1 several pound rump roast
@@ -11,7 +12,7 @@
 * 1 teaspoon salt
 * 1 teaspoon pepper
 * 1 teaspoon garlic
-* 2 tablespoon Worcestershire 
+* 2 tablespoon Worcestershire
 * 2 tablespoon brown sugar
 * 1/4 cup wine vinegar
 * 1/4 cup lemon juice

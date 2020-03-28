@@ -1,4 +1,5 @@
-## Emily’s Chili 	(Matt)
+# Emily’s Chili 	
+### Matt
 
 **Ingredients**
 * 1 pound ground Beef

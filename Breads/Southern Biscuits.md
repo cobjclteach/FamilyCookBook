@@ -1,4 +1,5 @@
-## Southern Biscuits	(Matt)
+# Southern Biscuits
+### Matt
 
 **Ingredients**
 *	1 cup plus 2 tbsp flour
@@ -8,7 +9,7 @@
 *	2 tbsp Crisco (Shortening)
 *	1/2 cup Buttermilk
 *	2 tbsp Butter
- 
+
 **Directions**
 1. Preheat oven to 450
 1. Mix the dry ingredients

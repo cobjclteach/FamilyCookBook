@@ -1,4 +1,6 @@
-# Strawberry Pie 	(Kim)	 [Award winning - Chef’s Choice - PI Day Bake-Off]
+# Strawberry Pie 	
+### Kim
+#### Award winning: Chef’s Choice - PI Day Bake-Off
 
 **Ingredients**
 * 1 Double Pie Crust

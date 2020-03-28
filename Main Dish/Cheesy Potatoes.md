@@ -1,4 +1,5 @@
-## Cheesy Potatoes   (Sharon “Grandma Green”)
+# Cheesy Potatoes   
+### Sharon “Grandma Green”
 
 **Ingredients**
 * 6 russet potatoes (boiled but still firm – 10 minutes) – peeled first and sliced afterwards

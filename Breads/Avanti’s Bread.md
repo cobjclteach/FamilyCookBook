@@ -1,4 +1,5 @@
-# Avanti's Bread		(Lynne)
+# Avanti's Bread		
+### Lynne 
 
 **Ingredients**
 *	2 packages active Dry Yeast

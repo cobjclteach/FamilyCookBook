@@ -1,4 +1,6 @@
-# Caramel Apple Pie 	(Hannah) [Award winning - Grand Champion]
+# Caramel Apple Pie 	
+### Hannah
+#### Award winning: Pie Day - Grand Champion
 
 **Ingredients**
 * 1 Double Crust

@@ -1,4 +1,5 @@
-## Chili Porkalicious	(Matt)
+# Chili Porkalicious
+### Matt
 #### Award winning: Chef’s choice, Grand Champion, Most heat - various competitions
 
 **Ingredients**

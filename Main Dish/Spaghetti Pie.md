@@ -1,4 +1,5 @@
-## Spaghetti Pie		(Lynne)
+# Spaghetti Pie		
+### Lynne
 
 **Ingredients**
 * 8oz Spaghetti noodles

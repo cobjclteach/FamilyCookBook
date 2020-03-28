@@ -1,4 +1,5 @@
-## Cheeseburger Pie	(Sharon “Grandma Green”)
+# Cheeseburger Pie
+### Sharon “Grandma Green”
 
 **Ingredients**
 * 1 pie shell

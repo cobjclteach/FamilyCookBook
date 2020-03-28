@@ -1,7 +1,8 @@
-## Lasagna Ole’	(Sharon “Grandma Green”)
+# Lasagna Ole’
+### Sharon “Grandma Green”
 
 **Ingredients**
-* 8 ounces ground turkey or beef 
+* 8 ounces ground turkey or beef
 * 1 cup chopped onion
 * 1/2 cup chopped green pepper
 * 2 cup tomato sauce

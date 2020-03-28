@@ -1,6 +1,7 @@
-## Tamale Pie		(Sharon “Grandma Green” & Alma Green)
+# Tamale Pie		
+### Sharon “Grandma Green” & Alma Green
 
-#### Corn Meal Crust:
+## Corn Meal Crust:
 **Ingredients**
 * 5 cups water
 * 2 teaspoons salt

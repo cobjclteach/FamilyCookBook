@@ -1,4 +1,5 @@
-## Gondolas - Famous Peoria Sandwich	(Lynne Green)
+# Gondolas - Famous Peoria Sandwich
+### Lynne Green
 
 **Ingredients**
 * Sliced Salami

@@ -1,5 +1,5 @@
-
-## Reuben Casserole	(Sharon “Grandma Green”)
+# Reuben Casserole
+### Sharon “Grandma Green”
 
 **Ingredients**
 * 8 ounces wide noodles cooked

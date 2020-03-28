@@ -1,4 +1,5 @@
-## Day Ahead Casserole (Sharon “Grandma Green” from her Grandma Burk)
+# Day Ahead Casserole
+### Sharon “Grandma Green” from her Grandma Burk
 
 **Ingredients**
 * 1 small package uncooked Creamettes (8oz elbow macaroni)

@@ -1,4 +1,5 @@
-## Harvest Chowder	(Lynne Green)
+# Harvest Chowder
+### Lynne Green
 
 **Ingredients**
 * 6 slices bacon
